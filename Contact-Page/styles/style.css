@@ -1,0 +1,48 @@
+body {
+    font-family: 'Karla', sans-serif !important;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.banner {
+    height: 40vh;
+    background: rgb(0, 182, 239);
+    color: white; 
+}
+
+.banner h2 {
+    font-size: 3.4em;
+    margin: 0 auto;
+}
+
+.standouts {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+h1 {
+    color: rgb(0, 182, 239);
+}
+
+.icon {
+    font-size: 3.2rem;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    width: 40%;
+    border-radius: 3px;
+    box-shadow: 2px 3px 3px 3px rgb(199, 196, 196);
+}
+
+
+
