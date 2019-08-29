@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    color: #fff;
+    
+}
+
+ul li {
+   list-style-type: none; 
+}
+
+.highlight {
+    color: #00B6EF;
+}
+
+.interoperability, .compliance, .student-success {
+    background: #f4f4f4; 
+    color: #00427C;
+}
+
+.buying-guide {
+    background: #00427C;
+    color: #fff;
+}
+
+.case-study {
+    background: #00B6EF;
+    color: #fff;
+}
+
+.top-line {
+    background: #DA2F6B;
+    color: #fff;
+}
+
+.bottom-line {
+    background: #00427C;
+    color: #fff;
+}
